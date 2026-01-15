@@ -236,7 +236,7 @@ const App: React.FC = () => {
         <div className="flex items-center justify-between px-2">
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/Bu-Ajlan/Ai-Studio-Exporter"
+              href="https://github.com/DVRRK/Ai-Studio-Exporter"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white/20 hover:text-white/60 transition-colors group relative"
@@ -246,7 +246,7 @@ const App: React.FC = () => {
               <span className="absolute -top-8 left-1/2 -translate-x-1/2 bg-black text-[8px] py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap border border-white/10">Star Repo</span>
             </a>
             <a
-              href="https://github.com/Bu-Ajlan/Ai-Studio-Exporter/issues"
+              href="https://github.com/DVRRK/Ai-Studio-Exporter/issues"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white/20 hover:text-white/60 transition-colors group relative"
