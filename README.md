@@ -3,8 +3,16 @@
 > **Hyper Mode for your Conversations.** Export Google AI Studio chats to MD, PDF, JSON, or TXT with a state-of-the-art interface.
 
 <div align="center">
-  <img src="icon.png" alt="AI Studio Exporter Icon" width="120" />
-  <img src="UI.png" alt="Extension UI Preview" width="300" />
+  <table>
+    <tr>
+      <td align="center" valign="bottom">
+        <img src="icon.png" alt="AI Studio Exporter Icon" width="180" />
+      </td>
+      <td align="center">
+        <img src="UI.png" alt="Extension UI Preview" width="280" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
