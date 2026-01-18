@@ -2,6 +2,11 @@
 
 > **Hyper Mode for your Conversations.** Export Google AI Studio chats to MD, PDF, JSON, or TXT with a state-of-the-art interface.
 
+<div align="center">
+  <img src="icon.png" alt="AI Studio Exporter Icon" width="120" />
+  <img src="UI.png" alt="Extension UI Preview" width="300" />
+</div>
+
 ---
 
 ## ⚫ The "Obsidian" Overhaul (v1.2.0)
@@ -45,11 +50,11 @@ Since this is a developer-grade tool, you'll load it as an unpacked extension:
 
 ## 🛠️ Tech Stack
 
-* **Framework**: React 18 + TypeScript
-* **Bundler**: Vite (Multi-entry for Popup & Content Scripts)
-* **Styling**: Tailwind CSS + Pure CSS Refinements
-* **Icons**: Lucide React
-* **Export Engines**: jsPDF & DOM-to-Text Heuristics
+- **Framework**: React 18 + TypeScript
+- **Bundler**: Vite (Multi-entry for Popup & Content Scripts)
+- **Styling**: Tailwind CSS + Pure CSS Refinements
+- **Icons**: Lucide React
+- **Export Engines**: jsPDF & DOM-to-Text Heuristics
 
 ---
 
@@ -61,4 +66,3 @@ Check out the [changelog.md](changelog.md) for the full history  and recent arch
 
 ```
 ```
-
