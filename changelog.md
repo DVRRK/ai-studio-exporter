@@ -1,8 +1,7 @@
 # Changelog - AI Studio Export (Obsidian Edition)
 
-## [v1.2.0] - The Pearl Overhaul (God Mode)
+## [v1.2.0] - The Obsidian Overhaul (Hyper Mode)
 
-**Architect:** Dana (Assistant to Bu Ajlan)
 **Date:** 2026-01-15
 **Status:** Performance & Aesthetics Optimized
 
@@ -35,8 +34,6 @@
 - **Code Hygiene**: Refined `index.css` to use standard CSS syntax for Tailwind directives, removing IDE linting errors while preserving full feature support.
 
 ### v1.1.0 - Security & Robustness Update (Legacy)
-
-**Architect:** Kael (X-DYNAMIC Protocol)
 
 - **Security:** Removed external CDN dependencies.
 - **Stability:** Added `MutationObserver` to Content Script.

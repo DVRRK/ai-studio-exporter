@@ -32,4 +32,4 @@ Data refined and exported through the Extension remains under your control. Sinc
 If you have questions about this Privacy Policy, you can open an issue on the [GitHub Repository](https://github.com/DVRRK/Ai-Studio-Exporter).
 
 ---
-*Crafted with integrity by Bu Ajlan (The BlackWolf)*
+*Crafted with integrity by DARK (The BlackWolf)*
