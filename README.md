@@ -1,5 +1,7 @@
 # AI Studio Exporter | Obsidian Edition ⚫
 
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 > **Hyper Mode for your Conversations.** Export Google AI Studio chats to MD, PDF, JSON, or TXT with a state-of-the-art interface.
 
 <p align="center">
