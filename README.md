@@ -10,6 +10,10 @@
   <img src="UI.png" alt="Extension UI Preview" width="300" align="middle" />
 </p>
 
+<p align="center">
+  <img src="Preview.gif" alt="Extension Preview Gameplay" width="800" />
+</p>
+
 ---
 
 ## ⚫ The "Obsidian" Overhaul (v1.2.0)
