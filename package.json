@@ -24,5 +24,11 @@
     "tailwindcss": "^3.4.3",
     "typescript": "^5.2.2",
     "vite": "^7.2.4"
-  }
+  },
+  "author": "DVRK-ORG",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DVRK-ORG/ai-studio-exporter.git"
+  },
+  "homepage": "https://github.com/DVRK-ORG/ai-studio-exporter#readme"
 }

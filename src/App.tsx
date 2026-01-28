@@ -236,7 +236,7 @@ const App: React.FC = () => {
         <div className="flex items-center justify-between px-2">
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/DVRRK/Ai-Studio-Exporter"
+              href="https://github.com/DVRK-ORG/ai-studio-exporter"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white/20 hover:text-white/60 transition-colors group relative"
@@ -246,7 +246,7 @@ const App: React.FC = () => {
               <span className="absolute -top-8 left-1/2 -translate-x-1/2 bg-black text-[8px] py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap border border-white/10">Star Repo</span>
             </a>
             <a
-              href="https://github.com/DVRRK/Ai-Studio-Exporter/issues"
+              href="https://github.com/DVRK-ORG/ai-studio-exporter/issues"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white/20 hover:text-white/60 transition-colors group relative"
@@ -259,10 +259,10 @@ const App: React.FC = () => {
 
           <div className="flex flex-col items-end">
             <p className="text-[9px] text-white/10 font-black tracking-tight uppercase whitespace-nowrap">
-              v1.2.0 • <span className="text-white/30">Alpha Build</span>
+              v1.2.0 • <span className="text-white/30">Stable Build</span>
             </p>
-            <p className="text-[8px] text-white/5 font-bold tracking-wide uppercase mt-0.5">
-              Crafted by <span className="text-white/20 hover:text-white/40 cursor-default transition-colors">DARK</span>
+            <p className="text-[10px] text-white/10 font-bold tracking-widest uppercase mt-0.5" style={{ fontFamily: 'Orbitron, sans-serif' }}>
+              CRAFTED WITH 🖤
             </p>
           </div>
         </div>
