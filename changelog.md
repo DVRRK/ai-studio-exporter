@@ -1,5 +1,22 @@
 # Changelog - AI Studio Export (Obsidian Edition)
 
+## [v1.2.1] - The DVRK-ORG Migration 🐺
+
+**Date:** 2026-01-28
+**Status:** Organization & Legal Handover
+
+### 🏛️ Organization Transfer
+
+- **Repo Migration**: Transferred ownership from personal `DVRRK` to the official `DVRK-ORG` organization in all configuration files and documentation.
+- **Copyright Update**: Transferred `LICENSE` copyright to `DVRK-ORG`.
+- **Metadata**: Updated `package.json` author and repository fields.
+
+### ⚫ UI & Branding Polish
+
+- **Footer Refinement**: Changed footer signature to **"CRAFTED WITH 🖤"**.
+- **Orbitron Font**: Integrated `Orbitron` Google Font specifically for the footer signature to give it a futuristic, cybernetic edge.
+- **Build Status**: Promoted from "Alpha Build" to **"Stable Build"** in the UI.
+
 ## [v1.2.0] - The Obsidian Overhaul (Hyper Mode)
 
 **Date:** 2026-01-15
